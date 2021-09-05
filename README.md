@@ -1,6 +1,6 @@
 # CPE405-HW1-61024246
 <p>Model</p> <p></p>
-<img src="Base1.png" >
+<img src="Base1.PNG" >
 <img src="base2.png" >
 <p>อุปกรณืที่ใช้ในการออกแบบ Model</p>
 <p>มี Switch</p>
